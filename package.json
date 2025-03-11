@@ -1,0 +1,13 @@
+{
+  "name": "JIRA Automation",
+  "version": "1.0.0",
+  "description": "A simple Node.js MVC app for JIRA Automation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  }
+}
